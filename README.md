@@ -6,7 +6,7 @@ This was an analysis of paid Amazon Vine reviews, specifically if Amazon Vine me
 
 ## **Results**
 
-![Final review numbers]()
+![Final review numbers](https://github.com/Nacho567/Amazon_Vine_Analysis/blob/3d14d665fed04a669deb616f5456cd706ade850e/Resources/final_tally.png)
 
 - Vine reviews: 94
 - Non-Vine reviews: 40,471
